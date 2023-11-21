@@ -1,0 +1,6 @@
+{
+  "description": "My Coolest List",
+  "name": "My Cool List",
+  "public": true,
+  "sort_by": "original_order.asc"
+}
